@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    number = int(input(" "))
+    number = int(input(""))
 
     if (number <0):
       print(number * -1)
